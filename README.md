@@ -24,6 +24,8 @@
 
 ### 작품 사진
 
+![raspberrypi](https://github.com/hyunju-mobile/test/assets/131326632/b59efa9d-ed14-4030-8bfc-c5591dbb98e0)
+
 ## 동작 시나리오 및 예시
 
 
